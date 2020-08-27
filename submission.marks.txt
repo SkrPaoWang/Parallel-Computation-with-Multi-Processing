@@ -1,0 +1,23 @@
+Mark Summary for Assignment 3 (submission), submitted by xuwencai
+
+BruteforceTest: 2.0 / 2
+	- Completed basic tests ['test_short_even_list', 'test_short_odd_list']
+	- Completed comprehensive tests ['test_32_element_list', 'test_duplicate_points']
+SerialTest: 0 / 4
+	- Failed at least one basic test ['test_32_element_list', 'test_is_recursive']
+ParallelTest: 0 / 2
+	- Failed at least one basic test ['test_32_element_list', 'test_processes_32_element_list']
+ParallelWithInitTest: 0 / 4
+	- Failed at least one basic test ['test_32_element_list', 'test_processes_32_element_list']
+CallTraceTest: 4 / 4
+	- Completed basic tests ['test_qsort_called', 'test_forks_twice', 'test_reads_from_pipes']
+	- Completed special cases ['test_forks_twice_before_wait', 'test_checks_mid_after_wait']
+	- Completed comprehensive tests ['test_closes_pipe_before_wait']
+OverflowTest: 2.0 / 2
+	- Completed basic tests ['test_overlow', 'no_overflow_detected']
+	- Completed comprehensive tests ['test_overlow']
+MemoryLeaks: 2.0 / 2
+	- Completed basic tests ['no_leak_detected']
+	- Completed comprehensive tests ['no_leak_detected']
+
+Total score: 10.0 / 20
